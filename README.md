@@ -21,5 +21,5 @@ The Software Link's PC-MOS includes an implementation of `cls`. Like the rest of
 DR DOS also includes an implementation of the `cls` command.
 
 ## In my opinion...
-As someone whose first language was BatchFile, I'm extremely accustomed to using cls. Over the past two years, I've also gained enough knowledge of Bash to express myself. Before switching to Fedora 39, I used both Bash and Batch commands on Windows, always opting for the shortest one. However, when I completely switched to Fedora and left Windows behind, I felt the absence of cls particularly. Now, typing `cls` and hitting enter to clear the screen oddly brings me joy.
+As someone whose first learned language was BatchFile, I'm extremely accustomed to using cls. Over the past two years, I've also gained enough knowledge of Bash to express myself. Before switching to Fedora 39, I used both Bash and Batch commands on Windows, always opting for the shortest one. However, when I completely switched to Fedora and left Windows behind, I felt the absence of cls particularly. Now, typing `cls` and hitting enter to clear the screen oddly brings me joy.
 
